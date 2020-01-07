@@ -1,0 +1,1 @@
+The POST /events will either read from authenticated session the user. For now the code skips this part.
